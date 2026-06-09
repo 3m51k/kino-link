@@ -12,7 +12,7 @@
 
 3. Готово! Откройте любую страницу фильма на `kinopoisk.ru` — в левой части экрана появится рыжая закладка с треугольником. Нажмите на неё.
 
-"<img width="888" height="265" alt="image" src="https://github.com/user-attachments/assets/3b64ef90-0ca9-4fdb-a43f-44d2e58b91a0" />
+<img width="888" height="265" alt="image" src="https://github.com/user-attachments/assets/3b64ef90-0ca9-4fdb-a43f-44d2e58b91a0" />
 
 ## Как это работает 🧠
 
